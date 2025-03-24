@@ -1,4 +1,4 @@
-package com.github.andrelambert.study_api;
+package com.github.andrelambert.study_api.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

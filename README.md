@@ -2,6 +2,8 @@
 https://start.spring.io/
 utilizar maven, java, 3.4.3
 
+instalar extension pack for java (vscode)
+
 Adicionar dependência no pom.xml 
 		<dependency>
 			<groupId>org.springdoc</groupId>
@@ -10,6 +12,7 @@ Adicionar dependência no pom.xml
 		</dependency>
 
 mvn spring-boot:run
+
 http://localhost:8080/swagger-ui/index.html
 
 abrir https://start.spring.io/

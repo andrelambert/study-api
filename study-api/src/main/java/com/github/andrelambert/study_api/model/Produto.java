@@ -1,4 +1,4 @@
-package com.github.andrelambert.study_api;
+package com.github.andrelambert.study_api.model;
 
 public class Produto {
     private Long id;
