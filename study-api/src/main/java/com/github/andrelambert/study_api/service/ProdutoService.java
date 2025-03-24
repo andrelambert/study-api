@@ -13,6 +13,7 @@ public class ProdutoService {
     private Long id = 1L;
 
     public Produto save(Produto produto) {
-        return null;
+        produto.setId(id);
+        return produto;
     }
 }
